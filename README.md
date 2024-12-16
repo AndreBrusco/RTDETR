@@ -1,7 +1,9 @@
 #RT-DETR Models for Real-Time Tree Crown Detection
+
 This repository contains the implementation and analysis of RT-DETR models for detecting tree crowns in high-resolution aerial images. The study explores metrics such as AP50, AP75, and Average Recall, comparing RT-DETR with traditional frameworks like YOLO and Faster R-CNN. Special attention is given to the efficiency of Dynamic Sparse Patterns (DSP) configurations, which balance precision and computational cost.
 
 #Overview
+
 The project is based on the dataset and methodologies introduced by França et al. in their study on tree crown detection using deep learning:
 Tree Crown Detection Using Advanced Object Detection Techniques.
 
